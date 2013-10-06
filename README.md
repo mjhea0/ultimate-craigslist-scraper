@@ -15,7 +15,6 @@ It takes a list of cities and job skills as inputs, searches computer jobs, emai
 
 4. Setup the database: `python database.py`
 5. Update your settings.py file:
-
   - EMAIL_USER, EMAIL_PASSWORD, TO_EMAIL, SMTP_SERVER, SMTP_PORT
   - MY_SKILLS_LIST
   - CITIES_LIST
