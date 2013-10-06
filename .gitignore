@@ -1,0 +1,7 @@
+config.py
+settings_local.py
+*.swp
+*.pyc
+*.db
+env
+*.DS_STORE

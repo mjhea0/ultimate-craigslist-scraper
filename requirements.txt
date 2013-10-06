@@ -1,0 +1,8 @@
+Scrapy==0.18.3
+Twisted==12.3.0
+lxml==3.1beta1
+pyOpenSSL==0.13
+queuelib==1.0
+w3lib==1.2
+wsgiref==0.1.2
+zope.interface==4.0.3
