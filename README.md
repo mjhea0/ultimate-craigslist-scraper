@@ -22,3 +22,10 @@ It takes a list of cities and job skills as inputs, searches computer jobs, emai
 6. Navigate to the scrapy root - `cd craigslist_jobs`
 7. Run the scrapper: `scrapy crawl gigs`
 8. Setup a cron to run once per week: `cron - 5 8 * * 6 /path/to/file scrapy crawl gigs`
+
+## to do
+
+1. Search other categories besides computer jobs
+2. Option to dump to CSV
+3. Proxy Servers
+4. Web App
