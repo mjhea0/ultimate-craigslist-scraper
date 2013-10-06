@@ -5,3 +5,4 @@ settings_local.py
 *.db
 env
 *.DS_STORE
+craigslist_jobs/craigslist_jobs/settings.py
