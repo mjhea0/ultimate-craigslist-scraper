@@ -12,7 +12,7 @@ It takes a list of cities and job skills as inputs, searches computer jobs, emai
   virtualenv --no-site-packages env
   source env/bin/activate
   ```
-
+4. Install requirements - `pip install -r requirements.txt`
 4. Setup the database: `python database.py`
 5. Update your settings.py file:
   - EMAIL_USER, EMAIL_PASSWORD, TO_EMAIL, SMTP_SERVER, SMTP_PORT
